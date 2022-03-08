@@ -1,3 +1,7 @@
-console.log("Hello World");
+console.log("Deleted unecessary log statements");
 
-console.log("Hello Charlie");
+var x = 10;
+
+function add() {
+  return 1 + 1;
+}
